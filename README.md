@@ -38,7 +38,7 @@ Dự án này sử dụng **MediaPipe**, **TensorFlow**, **OpenCV** và **PyAuto
 ## 🎥 Thiết lập dự án
 #### 1.📦 Clone Dự án
 ```bash
-git clone https://github.com/mthanh04/Nhan-dien-cu-chi-tay.git
+https://github.com/Balie768/nhan-dien-cu-chi-tay
 cd hand-gesture-mediapipe
 ```
 #### 2.📚 Tải các thư viện python cần thiết
